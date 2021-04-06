@@ -2,4 +2,5 @@ order list
 rope
 wall
 redu_wall
+redu_something more
 desk
