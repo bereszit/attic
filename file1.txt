@@ -1,4 +1,5 @@
 order list
 rope
 wall
+redu_wall
 desk
