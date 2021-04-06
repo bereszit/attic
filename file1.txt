@@ -2,4 +2,5 @@ order list
 rope
 not only beton
 redu_wall
+redu_something more
 desk
